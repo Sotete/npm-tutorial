@@ -7,7 +7,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
-	"author":"Sotete",
+	"author": "Sotete",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
